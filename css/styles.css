@@ -438,10 +438,9 @@ footer p a {
   }
 
   .btn {
-    grid-column: 1 / span 3;
+     grid-column: 1 / span 3;
   }
 }
-
 /* Media Query for Large Desktop Viewports */
 @media screen and (min-width: 1921px) {
   #container {
